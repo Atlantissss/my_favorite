@@ -1,5 +1,5 @@
 ## About 인공지능
-
+![](http://image.ajunews.com/content/image/2016/03/06/20160306044453635268.jpg)
 ##### 1. 인공지능이란?
  : AI, Ai, ai는 다음 뜻을 가지고 있다.
 
